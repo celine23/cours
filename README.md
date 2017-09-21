@@ -1,2 +1,2 @@
 # cours
-cours de git 
+cours de git qui se passe bien  
